@@ -1,0 +1,57 @@
+# Summary Notes:
+>> Bookings to Date: $ytd_bookings, with the following geographical and product contributions:
+>> North America: $ytd_na_bookings_percent; Rest of World: $ytd_row_bookings_percent
+>> Communications: $ytd_comms_bookings_percent
+>> Identity: $ytd_di_bookings_percent
+>> Bundle: $ytd_bundle_bookings_percent
+>> Support: $ytd_tsp_bookings_percent
+> Our Management Call is $mgmt_call
+> Q$cq_number open pipeline: Commit - $cq_commit_dm; Best Case - $cq_best_case_dm; Pipeline - $cq_pipeline_dm
+
+# Q$cq_number at a glance:
+> Bookings to Date: $cq_booked_dm
+>> DM Target: $dm_target
+>> For reference, $cq_minus_4 Booked DM was $cq_minus_4_booked_dm, $cq_minus_3 Booked DM was $cq_minus_3_booked_dm, $cq_minus_2 Booked DM was $cq_minus_2_booked_dm, and $cq_minus_1 Booked DM was $cq_minus_1_booked_dm
+> Commit (85% probability to close): $cq_commit_dm
+> Best Case (30% probability to close): $cq_best_case_dm
+> In addition to the Commit and Best Case above, we have $cq_pipeline_dm in other Pipeline that we are developing.
+> Pipeline Generation:
+>> $cw_stage_1_opps Opportunities Created this Week for $cw_stage_1_opp_dm
+>> $cq_stage_1_opps Opportunities Created QTD for $cq_stage_1_opp_dm
+
+# SELL:
+## Weekly Booking Activity:
+> $cw_booked_opps Opportunities Closed this Week for $cw_booked_dm
+>> Top Opps: 
+>>> $cw_booked_opp_1
+>>> $cw_booked_opp_2
+>>> $cw_booked_opp_3
+> Top March Committed Opportunities
+>> $cm_commit_opp_1
+>> $cm_commit_opp_2
+>> $cm_commit_opp_3
+> Other Top Q$cq_number Committed Opportunities
+>> $cq_commit_opp_1
+>> $cq_commit_opp_2
+>> $cq_commit_opp_3
+> Top Q$cq_number Best Case Opportunities
+>> $cq_best_case_opp_1
+>> $cq_best_case_opp_2
+>> $cq_best_case_opp_3
+> Top Opportunities in Business Terms
+>> $business_terms_opp_1
+>> $business_terms_opp_2
+>> $business_terms_opp_3
+> Regional Breakdown of Bookings in Q$cq_number
+>> North America - $cq_na_booked_dm
+>> LATAM - $cq_latam_booked_dm
+>> EMEA - $cq_emea_booked_dm
+>> APAC - $cq_apac_booked_dm
+
+## Pipeline Creation Activity:
+> $cw_stage_1_opps Opportunities Created this Week for $cw_stage_1_opp_dm
+>> Top Opps: 
+>>> $cw_created_opp_1
+>>> $cw_created_opp_2
+>>> $cw_created_opp_3
+> $cq_stage_1_opps Opportunities Created QTD for $cq_stage_1_opp_dm
